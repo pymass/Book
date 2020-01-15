@@ -132,3 +132,4 @@ dmypy.json
 P00000001-ALL.csv
 pack-d8fa52bfa0edb4771796d054a9fff470e956178a.pack
 output.pkl
+glove.6B.100d.txt
